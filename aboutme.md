@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About
 subtitle: Professional Background
 ---
 
@@ -12,7 +12,7 @@ I regularly present at the [California Groundwater Resources Association](https:
 
 During graduate school, I joined UCLA for an NSF-funded International Research Experiences for Students (IRES) project in Rwanda, supporting local farming initiatives to better track and distribute water across large rice production cooperatives and hillside vegetable cooperatives.
 
-I hold a Bachelor of Science in Earth Science from the University of California, Santa Cruz and a Master of Science in Hydrology from the [Hydrologic Sciences](https://www.hsgg.ucdavis.edu/) program at the University of California, Davis.
+I hold a Bachelor of Science in Earth Science from the [Earth and Planetary Sciences](https://eps.ucsc.edu/) department at the University of California, Santa Cruz and a Master of Science in Hydrology from the [Hydrologic Sciences](https://www.hsgg.ucdavis.edu/) program at the University of California, Davis.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/william-rice-pg/).
 
