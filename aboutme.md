@@ -1,4 +1,4 @@
-```
+
 ---
 layout: page
 title: About
@@ -13,4 +13,3 @@ I hold a Bachelor of Science in Earth Science from the University of California,
 
 ### For more about SGMA
 If you would like to know more about the Sustainable Groundwater Management Act, visit the [California Department of Water Resources SGMA Website](https://sgma.water.ca.gov/portal/).
-```
