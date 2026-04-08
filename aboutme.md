@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: Professional Background
+title: About me
+subtitle: Who is this guy?
 ---
 
 My name is Bill Rice and I am a California Professional Geologist with experience in hydrogeology, environmental geology, and water resource management. I specialize in groundwater investigations, numerical modeling with MODFLOW, and building data systems like telemetry networks, ETL pipelines, and stakeholder-facing dashboards that help water districts and agencies make science-based decisions.
